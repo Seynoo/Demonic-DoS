@@ -1,5 +1,5 @@
 # Requisitos
-Tener Perl instalado.
+- Tener Perl instalado.
 
 # Comandos
 - git clone https://github.com/Seynoo/dos-tool
