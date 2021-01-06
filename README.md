@@ -7,4 +7,4 @@ perl demonic.pl
 
 # Sugerencias
 De puerto sugiero elegir 80, si es un ataque a Web, elegir protocólo TCP.
-si es ataque a ip de un usuario, eligan protocólo UDP.
+Si es ataque a ip de un usuario, eligan protocólo UDP.
