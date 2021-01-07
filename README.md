@@ -17,6 +17,6 @@
 - git clone https://github.com/Seynoo/Demonic-DoS
 - cd Demonic-DoS
 - gcc demonic.c -o demonic
-- ./demonic <web> 80
+- ./demonic web 80
 # Ejemplo
  - ./demonic www.google.com 80
